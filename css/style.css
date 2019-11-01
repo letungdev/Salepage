@@ -219,7 +219,7 @@ h6 {
 }
 
 #intro .intro-info h2 {
-  color: #413e66;
+  color: #ffc107;
   margin-bottom: 40px;
   font-size: 40px;
   font-weight: 700;
@@ -231,7 +231,7 @@ h6 {
 }
 
 #intro .intro-info h2 span {
-  color: #1bb1dc;
+  color: #1ffc107;
 }
 
 #intro .intro-info .btn-get-started,
@@ -246,7 +246,7 @@ h6 {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #1bb1dc;
+  background: #ffc107;
   color: #fff;
 }
 
@@ -1169,7 +1169,7 @@ h6 {
   letter-spacing: 1px;
   border-radius: 3px;
   display: inline-block;
-  background: #1bb1dc;
+  background: #ffc107;
   color: #fff;
 }
 
